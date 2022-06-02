@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mostlikelyluigi
-- 👀 I’m interested in playing games and programming.
-- 🌱 I’m currently learning computer science for games (C++ and C#)
-- 📫 How to reach me mostlikelyluigi@gmail.com
+- 👋 Hi, I’m Luigi.
+- 👀 I’m interested in Animation.
+- 🌱 I’m currently learning Animation in Maya.
+- 📫 How to reach me: luigi.d.animation@gmail.com
 
 
